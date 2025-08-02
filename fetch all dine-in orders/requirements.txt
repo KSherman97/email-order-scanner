@@ -1,0 +1,6 @@
+google_api_python_client==2.147.0
+google_auth_oauthlib==1.2.1
+google_auth==2.35.0
+protobuf==5.28.2
+pyinstaller==6.10.0
+pyinstaller-hooks-contrib==2024.8
